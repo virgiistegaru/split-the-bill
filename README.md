@@ -70,12 +70,3 @@ I also learned more about CSS layout and styling, including using Flexbox to arr
 
 One challenge was deciding how to structure the application while keeping it simple enough to complete within the expected time.
 
-## Possible Improvements
-
-If I continued developing the project, I could add features such as:
-
-* Currency selection
-* More detailed error messages
-* A reset button
-* Different ways of splitting the bill
-* Improved mobile styling

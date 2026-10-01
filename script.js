@@ -1,5 +1,5 @@
 function calculateSplit(event) {
-    event.preventDefault(); // Prevent the default form submission
+    event.preventDefault();
 
 const billAmount = Number(document.getElementById("billAmount").value);
 const tipPercentage = Number(document.getElementById("tipPercentage").value);
