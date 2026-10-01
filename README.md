@@ -68,5 +68,7 @@ I learned more about connecting an HTML form with JavaScript, reading user input
 
 I also learned more about CSS layout and styling, including using Flexbox to arrange form elements and creating interactive states such as the button hover effect.
 
+Last but not least, I learned how to build software assisted by AI while taking full ownership of the process.
+
 One challenge was deciding how to structure the application while keeping it simple enough to complete within the expected time.
 
