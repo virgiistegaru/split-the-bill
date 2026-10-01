@@ -45,7 +45,7 @@ I used AI as a supporting tool throughout the development process, mainly as a s
 
 The decisions about how the application should work, what features to include, how it should look, and how I wanted to structure the solution were my own. I used AI to discuss different approaches, ask for explanations when I encountered unfamiliar concepts, and get suggestions when I was unsure how to implement something.
 
-I did not use AI to make the project independently. I wrote the code myself, made the final implementation decisions, and checked the suggestions before using them.
+I did not use AI to make the project independently. I made the final implementation decisions, and checked the suggestions before using them.
 
 ## How I Checked That the Result Was Correct
 
