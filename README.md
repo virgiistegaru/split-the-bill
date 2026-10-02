@@ -14,6 +14,8 @@ The user can enter the bill amount, the number of people sharing the bill, and t
 * Calculate the amount each person should pay
 * Validate the entered values
 * Simple and easy-to-use interface
+* Quick tip percentage buttons
+* Highlight the selected tip percentage
 
 ## Technologies
 
@@ -41,7 +43,9 @@ HTML is used for the structure and form, CSS for the visual design and layout, a
 
 ## How I Used AI
 
-I used AI as a supporting tool throughout the development process, mainly as a source of advice and guidance.
+I used AI as a supporting tool throughout the development process, mainly as a source of advice and guidance.\
+
+I also used AI to discuss UI and styling ideas.
 
 The decisions about how the application should work, what features to include, how it should look, and how I wanted to structure the solution were my own. I used AI to discuss different approaches, ask for explanations when I encountered unfamiliar concepts, and get suggestions when I was unsure how to implement something.
 
